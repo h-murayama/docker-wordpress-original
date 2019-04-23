@@ -8,7 +8,7 @@ You can install the plugin automatically by changing ```my-wordpress / Dockerfil
 ## How to use
 
 ```bash
-git clone https://github.com/h-murayama/docker-wordpress.git
+git clone https://github.com/h-murayama/docker-wordpress-original.git
 cd docker-wordpress/
 docker-compose up -d
 ```
